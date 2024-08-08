@@ -3,13 +3,18 @@
 - 📫 How to reach me LinkedIn: (https://www.linkedin.com/in/charupreet-kaur-b77873284/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FnPRQZ8GQMCFDr7Km2lSpA%3D%3D)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:
-import java.util.Random;
-public class Main {
-    public static void main(String[] args) {
-        boolean justMetYou = true; // Assuming justMetYou is true
-        String s = "123-456-7890"; // Replace with your number
+
+
+
+   
+        boolean justMetYou = true; 
+        
+        String s = "fake_number"; 
+        
         if(justMetYou) {
+        
             boolean crazy = true;
+            
             System.out.print("Here's my number: " + s);
             Random rand = new Random();
             int x = rand.nextInt(100);
@@ -17,12 +22,7 @@ public class Main {
                 callMe();
             }
         }
-    }
-    public static void callMe() {
-        System.out.println(" Call me maybe?");
-    }
-}
-
+   
 
 <!---
 CharupreetKaur/CharupreetKaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
